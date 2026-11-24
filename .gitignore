@@ -5,7 +5,7 @@
 
 # dotenv files
 .env
-
+#ini hanya menjadi contoh gharr
 # User-specific files
 *.rsuser
 *.suo
